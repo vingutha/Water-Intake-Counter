@@ -1,21 +1,6 @@
-# co3c14de2bee478d7d5ce719c
 
-Quick start:
+## About Water Intake Counter
+ Press on increment to keep track of the number of bottles (500 ml each) you drank per day or any specific ways you desire to.
+- [Track here](https://659c6bb16887a92ab13fa8bb--unrivaled-chaja-5cb55f.netlify.app/)
 
-```
-$ npm install
-$ npm start
-````
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
